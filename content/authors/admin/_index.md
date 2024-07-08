@@ -52,7 +52,7 @@ education:
     date_start: 2022-05-01
     date_end: 2017-09-01
     summary: |
-        Thesis on topics in Modeling of Multivariate Mixed Data Types and Highly Multivariate Spatial Data. Supervised by <a href="https://www.biostat.jhsph.edu/~vzipunni/" target="_blank"> Dr. Vadim Zipunnikov </a> and [Dr Abhirup Datta](https://abhidatta.com/).
+        Thesis on topics in Modeling of Multivariate Mixed Data Types and Highly Multivariate Spatial Data. Supervised by <a href="https://www.biostat.jhsph.edu/~vzipunni/" target="_blank"> Dr. Vadim Zipunnikov </a> and <a href="https://abhidatta.com" target="_blank"> Dr. Abhirup Datta </a> 
     button:
       text: 'Read Thesis'
       url: 'https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/67150/DEY-DISSERTATION-2022.pdf?sequence=1'
@@ -130,4 +130,4 @@ languages:
 ---
 ## About Me
   
-Debangan Dey is a postdoctoral fellow in the Genetic Epidemiology Research Branch of National Institutes of Mental Health at the lab of Dr. Kathleen Merikangas. I am leading the data science core of mMarch consortium where we investigate scientific questions at the intersection of physical activity, mental health and various biochemical processes. His research interests include modeling mixed intensive longitudinal data, highly multivariate spatial data, and its applications in wearables, ecological momentary assessments, environmental sciences and sports analytics.
+Debangan Dey is a postdoctoral fellow in the Genetic Epidemiology Research Branch of National Institutes of Mental Health at the lab of <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/kathleen-merikangas" target="_blank">Dr. Kathleen Merikangas</a>. I am leading the data science core of mMarch consortium where we investigate scientific questions at the intersection of physical activity, mental health and various biochemical processes. His research interests include modeling mixed intensive longitudinal data, highly multivariate spatial data, and its applications in wearables, ecological momentary assessments, environmental sciences and sports analytics.
