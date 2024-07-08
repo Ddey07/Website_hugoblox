@@ -22,7 +22,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: NIMH
-url: https://www.nimh.nih.gov/
+    url: https://www.nimh.nih.gov/
   
   # Social network links
   # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
