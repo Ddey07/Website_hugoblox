@@ -1,6 +1,6 @@
 ---
-  # Display name
-  title: Debangan Dey
+# Display name
+title: Debangan Dey
 
 # Full name (for SEO)
 first_name: Debangan
@@ -26,47 +26,47 @@ url: https://www.nimh.nih.gov/
   
   # Social network links
   # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-  profiles:
+profiles:
   - icon: at-symbol
-url: 'mailto:debangan.dey07@gmail.com'
-label: E-mail Me
-- icon: brands/x
-url: https://twitter.com/debangan07
+    url: 'mailto:debangan.dey07@gmail.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/debangan07
   - icon: brands/github
-url: https://github.com/Ddey07/
-- icon: brands/linkedin
-url: https://www.linkedin.com/in/ddey07/
+    url: https://github.com/Ddey07/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/ddey07/
   - icon: academicons/google-scholar
-url: https://scholar.google.co.in/citations?user=-GMPEDQAAAAJ&hl=en
+    url: https://scholar.google.co.in/citations?user=-GMPEDQAAAAJ&hl=en
 
 interests:
- - Wearables
-- Mobile Health
-- Spatial statistics
-- Ecological Momentary Assessment
-- Sports Analytics
+  - Wearables
+  - Mobile Health
+  - Spatial statistics
+  - Ecological Momentary Assessment
+  - Sports Analytics
 
 education:
   - area: PhD Biostatistics
-institution: Johns Hopkins Bloomberg School of Public Health
-date_start: 2022-05-01
-date_end: 2017-09-01
-summary: |
-  Thesis on topics in Modeling of Multivariate Mixed Data Types and Highly Multivariate Spatial Data. Supervised by [Dr Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/) and [Dr Abhirup Datta](https://abhidatta.com/). 
-button:
-  text: 'Read Thesis'
-url: 'https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/67150/DEY-DISSERTATION-2022.pdf?sequence=1'
-- area: MStat
-institution: Indian Statistical Institute
-date_start: 2017-05-01
-date_end: 2015-07-15
+    institution: Johns Hopkins Bloomberg School of Public Health
+    date_start: 2022-05-01
+    date_end: 2017-09-01
+    summary: |
+        Thesis on topics in Modeling of Multivariate Mixed Data Types and Highly Multivariate Spatial Data. Supervised by            [Dr Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/) and [Dr Abhirup Datta](https://abhidatta.com/). 
+    button:
+      text: 'Read Thesis'
+      url: 'https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/67150/DEY-DISSERTATION-2022.pdf?sequence=1'
+  - area: MStat
+    institution: Indian Statistical Institute
+    date_start: 2017-05-01
+    date_end: 2015-07-15
 
-- area: BStat
-institution: Indian Statistical Insitute
-date_start: 2015-05-01
-date_end: 2012-07-15
+  - area: BStat
+      institution: Indian Statistical Insitute
+      date_start: 2015-05-01
+      date_end: 2012-07-15
 work:
-- position: Applied Scientist Intern
+  - position: Applied Scientist Intern
     company: Amazon
     company_url: ''
     company_logo: 
@@ -96,37 +96,37 @@ skills:
   - name: Technical Skills
 items:
   - name: Python
-description: ''
-percent: 80
-icon: code-bracket
-- name: Data Science
-description: ''
-percent: 100
-icon: chart-bar
+    description: ''
+    percent: 80
+    icon: code-bracket
+  - name: Data Science
+    description: ''
+    percent: 100
+    icon: chart-bar
 - name: SQL
-description: ''
-percent: 40
-icon: circle-stack
+  description: ''
+  percent: 40
+  icon: circle-stack
 - name: Hobbies
-color: '#eeac02'
-color_border: '#f0bf23'
+  color: '#eeac02'
+  color_border: '#f0bf23'
 items:
   - name: Hiking
-description: ''
-percent: 60
-icon: person-simple-walk
-- name: Photography
-description: ''
-percent: 80
-icon: camera
+    description: ''
+    percent: 60
+  icon: person-simple-walk
+  - name: Photography
+    description: ''
+    percent: 80
+    icon: camera
 
 languages:
   - name: English
-percent: 100
-- name: Bengali
-percent: 100
-- name: Hindi
-percent: 75
+    percent: 100
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
