@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Debangan Dey
+title: 
 
 # Full name (for SEO)
 first_name: Debangan
