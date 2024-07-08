@@ -8,7 +8,7 @@ last_name: Dey
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,7 +52,7 @@ education:
     date_start: 2022-05-01
     date_end: 2017-09-01
     summary: |
-        Thesis on topics in Modeling of Multivariate Mixed Data Types and Highly Multivariate Spatial Data. Supervised by [Dr Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/) and [Dr Abhirup Datta](https://abhidatta.com/).
+        Thesis on topics in Modeling of Multivariate Mixed Data Types and Highly Multivariate Spatial Data. Supervised by <a href="https://www.biostat.jhsph.edu/~vzipunni/" target=target="_blank"> Dr. Vadim Zipunnikov </a> and [Dr Abhirup Datta](https://abhidatta.com/).
     button:
       text: 'Read Thesis'
       url: 'https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/67150/DEY-DISSERTATION-2022.pdf?sequence=1'
