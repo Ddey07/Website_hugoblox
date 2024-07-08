@@ -95,26 +95,34 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: r
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Python
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Soccer
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: custom/futbol-solid
+      - name: Cooking
+        description: ''
+        percent: 60
+        icon: custom/kitchen-set-solid
+      - name: Traveling
+        description: ''
+        percent: 60
+        icon: custom/globe-solid  
       - name: Photography
         description: ''
         percent: 80
