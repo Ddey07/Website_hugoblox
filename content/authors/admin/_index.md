@@ -19,13 +19,13 @@ highlight_name: true
 # Role/position/tagline
 role: Postdoctoral Fellow
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: NIMH
     url: https://www.nimh.nih.gov/
-  
-  # Social network links
-  # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:debangan.dey07@gmail.com'
@@ -52,7 +52,7 @@ education:
     date_start: 2022-05-01
     date_end: 2017-09-01
     summary: |
-        Thesis on topics in Modeling of Multivariate Mixed Data Types and Highly Multivariate Spatial Data. Supervised by            [Dr Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/) and [Dr Abhirup Datta](https://abhidatta.com/). 
+        Thesis on topics in Modeling of Multivariate Mixed Data Types and Highly Multivariate Spatial Data. Supervised by [Dr Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/) and [Dr Abhirup Datta](https://abhidatta.com/).
     button:
       text: 'Read Thesis'
       url: 'https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/67150/DEY-DISSERTATION-2022.pdf?sequence=1'
@@ -65,6 +65,7 @@ education:
     institution: Indian Statistical Insitute
     date_start: 2015-05-01
     date_end: 2012-07-15
+
 work:
   - position: Applied Scientist Intern
     company: Amazon
@@ -78,7 +79,7 @@ work:
         
         * Analyzing big data from Amazon search (number of rows in billions) in Spark.
         * Making experiments faster in Amazon search relevance team.
-        
+
   - position: Analyst
     company: Baltimore City Health Department - JHSPH Data Analysis Support Team
     company_url: ''
@@ -90,35 +91,34 @@ work:
         Responsibilities include:
         
         * Design methods to detect unmet COVID-19 testing needs
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+
 skills:
   - name: Technical Skills
-items:
-  - name: Python
-    description: ''
-    percent: 80
-    icon: code-bracket
-  - name: Data Science
-    description: ''
-    percent: 100
-    icon: chart-bar
-- name: SQL
-  description: ''
-  percent: 40
-  icon: circle-stack
-- name: Hobbies
-  color: '#eeac02'
-  color_border: '#f0bf23'
-items:
-  - name: Hiking
-    description: ''
-    percent: 60
-  icon: person-simple-walk
-  - name: Photography
-    description: ''
-    percent: 80
-    icon: camera
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
@@ -128,40 +128,35 @@ languages:
   - name: Hindi
     percent: 75
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-<!---
 awards:
   - title: Neural Networks and Deep Learning
-url: https://www.coursera.org/learn/neural-networks-deep-learning
-date: '2023-11-25'
-awarder: Coursera
-icon: coursera
-summary: |
-  I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-- title: Blockchain Fundamentals
-url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-date: '2023-07-01'
-awarder: edX
-icon: edx
-summary: |
-  Learned:
-  - Synthesize your own blockchain solutions
-- Gain an in-depth understanding of the specific mechanics of Bitcoin
-- Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-- title: 'Object-Oriented Programming in R'
-url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-certificate_url: https://www.datacamp.com
-date: '2023-01-21'
-awarder: datacamp
-icon: datacamp
-summary: |
-  Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-07-01'
+    awarder: edX
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
--->
 
 ## About Me
   
-Debangan Dey is a postdoctoral fellow in the Genetic Epidemiology Research Branch of National Institutes of Mental Health at the lab of Dr. Kathleen Merikangas. I am leading the data science core of mMarch consortium where we investigate investigate scientific questions at the intersection of physical activity, mental health and various biochemical processes. His research interests include modeling mixed intensive longitudinal data, highly multivariate spatial data, and its applications in wearables, ecological momentary assessments, environmental sciences and sports analytics.
+Debangan Dey is a postdoctoral fellow in the Genetic Epidemiology Research Branch of National Institutes of Mental Health at the lab of Dr. Kathleen Merikangas. I am leading the data science core of mMarch consortium where we investigate scientific questions at the intersection of physical activity, mental health and various biochemical processes. His research interests include modeling mixed intensive longitudinal data, highly multivariate spatial data, and its applications in wearables, ecological momentary assessments, environmental sciences and sports analytics.
