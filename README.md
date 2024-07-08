@@ -1,2 +1,2 @@
-# Website_hugoblox
-Website with hugoblox
+# deydebangan
+Personal Website for Debangan Dey
