@@ -62,9 +62,9 @@ education:
     date_end: 2015-07-15
 
   - area: BStat
-      institution: Indian Statistical Insitute
-      date_start: 2015-05-01
-      date_end: 2012-07-15
+    institution: Indian Statistical Insitute
+    date_start: 2015-05-01
+    date_end: 2012-07-15
 work:
   - position: Applied Scientist Intern
     company: Amazon
